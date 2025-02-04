@@ -1,0 +1,24 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: Lecture0 local
+- file: Lecture1 local
+- file: Lecture2 local
+- file: Lecture3 local
+- file: Lecture4 local
+- file: Lecture5 local
+- file: Lecture6 local
+- file: Lecture7 local
+- file: Lecture8 local
+- file: Lecture10 local
+- file: Lecture11 local
+- file: Lecture12 local
+
+
+
